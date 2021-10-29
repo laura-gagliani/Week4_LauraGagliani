@@ -1,0 +1,105 @@
+﻿body {
+    background-color:black !important;
+}
+
+
+#floating {
+    position:fixed;
+    color:white;
+    text-decoration:none;
+    text-align:center;
+    top:90%;
+    left:90%;
+    background-color:#59866d;
+    padding:20px;
+    border-radius:3px;
+}
+
+/*NAVBAR*/
+
+.navbar li {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+
+}
+
+.navbar li:hover {
+    background-color:#95c2a9;
+}
+
+.navbar {
+    background-color:#59866d;
+}
+
+/*FOOTER*/
+footer {
+    background-color: rgb(112 136 144);
+    color:white;
+    clear: both;
+    margin-top:200px;
+    padding:10px;
+
+}
+
+
+/*HOMEPAGE*/
+
+#trailer-video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:80px;
+    margin-bottom:80px;
+    width: 1120px;
+    height: 630px;
+}
+
+/*SCHEDATECNICA*/
+
+.row {
+    text-align:center
+}
+
+.img-film {
+    width:100%;
+    
+}
+
+.list-group {
+    width: 70% !important;
+    margin-top: 40px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.trama {
+    text-align: justify;
+    background-color: white;
+    border-radius: 10px;
+    width: 70% !important;
+    margin-top: 40px !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+}
+.titolo {
+    text-align:center
+}
+
+/*NEWS*/
+
+form {
+    margin-top: 100px;
+    margin-bottom:500px;
+    padding:30px;
+    border: 5px solid #95c2a9;
+    background-color:rgb(190 211 219)
+}
+
+.form-label {
+    color:black;
+}
+
+#unsubscribe {
+    margin-top:40px;
+}

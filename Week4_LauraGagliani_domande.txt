@@ -1,0 +1,20 @@
+1) esempio: www.chim.unifi.it
+ 
+primo livello: it
+secondo livello: unifi
+terzo livello: chim
+
+2) <img src="http://www.fruit.com/fruit.png" />
+
+3) .color {} (nome della classe)
+   li {}(elementi della lista)
+  ul li {}(elementi della lista contenuti nell'elenco)
+
+4)#welcome, .color {
+    background-color:pink;
+}
+
+5)     <a href="https://www.avanade.com/">Avanade</a>
+
+
+6) <h1>
